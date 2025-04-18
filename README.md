@@ -1,1 +1,1 @@
-# assignment1
+# Online Voting Platform
